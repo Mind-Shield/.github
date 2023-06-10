@@ -77,13 +77,6 @@ Você pode encontrar a prototipação do front-end do projeto aqui:  [clicking h
 ## Demo
 Essa é uma breve demonstração das funcionalidades da plataforma: [Link](https://youtu.be/Q2fwHYI0Om0) 
 
-
-
-
-## License
-
-Distributed under the MIT License. See [License](https://github.com/Mind-Shild/LICENSE) for more information.
-
 ## Colaboradores
 <table>
   <tr>
