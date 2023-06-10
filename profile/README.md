@@ -1,4 +1,4 @@
-# Mind Shild 
+# Mind Shild - Criando um ambiente escolar mais seguro e saudável
 
 ## Hackathon CPGoiás3 - Mind Shild
 
@@ -105,15 +105,15 @@ Distributed under the MIT License. See [License](https://github.com/Mind-Shild/L
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/lucas-britto-376665208/">
-        <img src="" width="100px;" alt="Lucas Britto profile image"/><br>
+        <img src="https://media.licdn.com/dms/image/C4D03AQFd5IS-7rpuXw/profile-displayphoto-shrink_800_800/0/1644596401709?e=1691625600&v=beta&t=yi5PC_eGA5j37Q-hIlTxb1I47h8BfQ7_jSnUf1Icvug" width="100px;" alt="Lucas Britto profile image"/><br>
         <sub>
           <b>Lucas Britto</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/vinicioslugli/">
-        <img src="" width="100px;" alt="VPatrick Victorino profile image"/><br>
+      <a href="https://www.linkedin.com/in/patrick-miranda/">
+        <img src="https://media.licdn.com/dms/image/D4D03AQHVEwfnpo1pFA/profile-displayphoto-shrink_800_800/0/1681828189039?e=1691625600&v=beta&t=RSda62UAPjIsJD97qklMTH09nKC-01kMX6dSWELrAyQ" width="100px;" alt="VPatrick Victorino profile image"/><br>
         <sub>
           <b>Patrick Victorino</b>
         </sub>
