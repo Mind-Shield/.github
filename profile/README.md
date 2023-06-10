@@ -55,6 +55,8 @@ O projeto está disponível na AWS (Amazon Web Services), a partir do seguinte l
 
 ## Arquitetura
 A arquitetura do sistema consiste na estrutura, fluxo de dados do sitema e protocolos de comunicação utilizados.
+![arquitetura Mind Shild](https://github.com/Mind-Shield/.github/blob/57a54a55bed4e8354d09fb136102646ee3541495/assets/arquiteturaSoluc%CC%A7a%CC%83o-MindShield.png) <br>
+
 
 ## Protótipo
 
