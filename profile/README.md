@@ -72,6 +72,10 @@ A arquitetura do sistema consiste na estrutura, fluxo de dados do sitema e proto
 Você pode encontrar a prototipação do front-end do projeto aqui:  [clicking here](https://www.figma.com/file/fM3D5OXI5nZnPCnyaK2Tym/hackas-escolas?type=design&node-id=0%3A1&t=e1WctbQKHJ2ysax0-1). Você precisará de uma conta no  [Figma](https://www.figma.com/) .
 
 ## Demo
+Essa é uma breve demonstração das funcionalidades da plataforma: [Link](https://youtu.be/Q2fwHYI0Om0) 
+
+
+
 
 ## License
 
