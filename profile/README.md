@@ -38,7 +38,16 @@ Cada repositório contém um arquivo README.md contendo a estrutura de suas resp
  - Python
  
 ## Instruções para rodar o projeto 
-Você encontrará instruçÕes mais detalhadas em cada repositório.
+Você encontrará instruções mais detalhadas em cada repositório.
+
+### Credenciais de acesso no login
+Área do Estudante
+email: ana@gmail.com
+senha: mortadela
+
+Área do Professor (admin)
+email: vinicios@gmail.com
+senha: mortadela
 
 ### Localmente
 
