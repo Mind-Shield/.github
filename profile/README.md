@@ -1,5 +1,5 @@
 # Mind Shild - Criando um ambiente escolar mais seguro e saudável
-![capa Mind Shild](../assets/capaMINDSHILD.png)
+![capa Mind Shild](../assets/capaMINDSHILD.png) <br>
 ## Hackathon CPGoiás3 - Mind Shild
 
 ## Nosso time
@@ -14,28 +14,9 @@
 Funcionalidades do sistema:
 
 
-## Estrutura de pastas - arrumar
-|--> Server<br>
-  &emsp;| --> artifacts <br>
-  &emsp;| -->src <br>
-  &emsp;| &emsp;| -->modules <br>
-|--> inteligencia artificial<br> 
-  &emsp;| --> include<br>
-  &emsp;| &emsp;| --> sensors <br>
-  &emsp;| --> lib<br>
-  &emsp;| --> src<br>
-  &emsp;| &emsp;| --> sensors <br>
-  &emsp;| --> test<br>
-  &emsp;| &emsp;| -->modules <br>
-  |--> client<br>
-    &emsp;| --> public<br>
-    &emsp;| --> src<br>
-    &emsp;| &emsp;| --> assets <br>
-    &emsp;| &emsp;| --> componentes <br>
-    &emsp;| &emsp;| --> contexts <br>
-    &emsp;| &emsp;| --> pages <br>
-|--> License<br>
-|--> Readme.md<br>
+## Estrutura dos repositórios
+Nosso projeto contém 3 repositórios: Server (Back-end), Client (Front-end) e Machine-Learning (AI desenvolvida).
+Cada repositório contém um arquivo README.md contendo a estrutura de suas respectivas pastas
 
 ## Tecnologias
 
@@ -53,10 +34,11 @@ Funcionalidades do sistema:
  - Nest.js
  - Prisma
  
- ### Artificial Intelligence:
+ ### Machine Learning:
  - Python
  
 ## Instruções para rodar o projeto 
+Você encontrará instruçÕes mais detalhadas em cada repositório.
 
 ### Localmente
 
