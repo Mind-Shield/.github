@@ -51,7 +51,7 @@ Você encontrará instruçÕes mais detalhadas em cada repositório.
 6° O projeto já está rodando localmente! Pressione "ctrl + click" para abrir a URL que aparecer no terminal do "Client" no browser e acessar o projeto.<br>
 
 ### Deploy AWS
-O projeto está disponível na AWS (Amazon Web Services), a partir do seguinte link: [Link]() 
+O projeto está disponível na AWS (Amazon Web Services), a partir do seguinte link: [Link](http://mindshield-bucket.s3-website-us-east-1.amazonaws.com) 
 
 ## Arquitetura
 A arquitetura do sistema consiste na estrutura, fluxo de dados do sitema e protocolos de comunicação utilizados.
