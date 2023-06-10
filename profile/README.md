@@ -76,7 +76,7 @@ A arquitetura do sistema consiste na estrutura, fluxo de dados do sitema e proto
 
 ## Protótipo
 
-Você pode encontrar a prototipação do front-end do projeto aqui:  [clicking here](https://www.figma.com/file/NimQTWAvXkrCFHNCByUp3g/Frontend---CarBon?type=design&node-id=0%3A1&t=JYX38XFl5vKz2shA-1). Você precisará de uma conta no  [Figma](https://www.figma.com/) .
+Você pode encontrar a prototipação do front-end do projeto aqui:  [clicking here](https://www.figma.com/file/fM3D5OXI5nZnPCnyaK2Tym/hackas-escolas?type=design&node-id=0%3A1&t=e1WctbQKHJ2ysax0-1). Você precisará de uma conta no  [Figma](https://www.figma.com/) .
 
 ## Demo
 
