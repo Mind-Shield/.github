@@ -15,8 +15,13 @@ Funcionalidades do sistema:
 
 
 ## Estrutura dos repositórios
-Nosso projeto contém 3 repositórios: Server (Back-end), Client (Front-end) e Machine-Learning (AI desenvolvida).
-Cada repositório contém um arquivo README.md contendo a estrutura de suas respectivas pastas
+Nosso projeto contém 3 repositórios: 
+
+-   Server (Back-end) [Link](https://github.com/Mind-Shield/server)
+-   Client (Front-end) [Link](https://github.com/Mind-Shield/client)
+-   Machine-Learning (AI desenvolvida) [Link](https://github.com/Mind-Shield/machine-learning)
+
+Cada repositório contém um arquivo README.md contendo toda a explicação do repositório e estrutura de suas respectivas pastas.
 
 ## Tecnologias
 
