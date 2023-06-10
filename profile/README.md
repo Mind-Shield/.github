@@ -1,5 +1,5 @@
 # Mind Shild - Criando um ambiente escolar mais seguro e saudável
-
+![capa Mind Shild](../assets/capaMINDSHILD.png)
 ## Hackathon CPGoiás3 - Mind Shild
 
 ## Nosso time
