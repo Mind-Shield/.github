@@ -9,11 +9,9 @@
 - Patrick VIctorino Miranda (Inteligência Artificial e Back-end development);
 
 ## Solução
-
-
-Funcionalidades do sistema:
-
-
+A Mind Shild é uma plataforma gamificada baseada em PLN (Processamento de Linguagem Natural),  uma Inteligência Artificial que busca classificar em positivas e negativas as reações dos alunos ao se depararem com determinadas situações. 
+Ao fim da rodada, será possível identificar os casos mais críticos, de modo que sejam encaminhados aos psicólogos os alunos que necessitem de uma atenção especial.  
+Sendo assim, essa solução além de servir como uma ferramenta de triagem e apoio para lidar com a alta demanda dos profissionais de psicologia. Busca também contribuir com o processo de autoconhecimento dos estudantes.
 ## Estrutura dos repositórios
 Nosso projeto contém 3 repositórios: 
 
