@@ -41,13 +41,13 @@ Cada repositório contém um arquivo README.md contendo a estrutura de suas resp
 Você encontrará instruções mais detalhadas em cada repositório.
 
 ### Credenciais de acesso no login
-Área do Estudante
-email: ana@gmail.com
-senha: mortadela
+Área do Estudante <br>
+email: ana@gmail.com <br>
+senha: mortadela <br>
 
-Área do Professor (admin)
-email: vinicios@gmail.com
-senha: mortadela
+Área do Professor (admin) <br>
+email: vinicios@gmail.com <br>
+senha: mortadela <br>
 
 ### Localmente
 
